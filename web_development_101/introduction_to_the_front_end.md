@@ -16,6 +16,7 @@ In the following lessons, you'll get a healthy understanding of each of the thre
 * What is the role of CSS in a web page?
 * What is the role of Javascript in a web page?
 
+
 ### Assignment:
 1. Read a brief intro to front end development from this [Interview with Nick Schaden](https://generalassemb.ly/blog/what-is-front-end-web-development/)
 2. Get a high level overview of how all three languages work together in MDN's [Getting started with the Web](https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web). Readers should only go through: Dealing with files, HTML basics, CSS basics and Javascript basics.
